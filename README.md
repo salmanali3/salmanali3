@@ -1,3 +1,4 @@
+![logo](https://github.com/salmanali3/salmanali3/blob/main/bannerss.png)
 <h1 align="center">Hi 👋, I'm Salman Ali</h1>
 <h3 align="center">Exploring AI, Data, and Automation</h3>
 
